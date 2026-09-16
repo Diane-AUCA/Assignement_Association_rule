@@ -44,6 +44,18 @@ Quick refresher on what the three scoring metrics actually mean, since they get 
 
 Notice these are three *different* rules. That's the core lesson of the whole exercise: support, confidence, and lift each answer a different question, and no single one tells the full story on its own.
 
+## Figures
+
+![Top 10 Most Frequently Purchased Items](figure1_top10_items.png)
+
+![Distribution of Basket Sizes](figure2_basket_size_distribution.png)
+
+![Top 10 Frequent Itemsets by Support](figure3_top10_itemsets.png)
+
+![Association Rules: Support vs Confidence](figure4_rules_scatter.png)
+
+![Distribution of Lift Across All Rules](figure5_lift_distribution.png)
+
 ## Turning this into store decisions
 
 A few ways a supermarket could actually act on these results:
@@ -75,7 +87,7 @@ Then open `Groceries_Association_Rules.ipynb` (keep it in the same folder as `gr
 
 - `groceries.csv` — the raw transaction data
 - `Groceries_Association_Rules.ipynb` — full analysis, code, and figures
-- `Groceries_Report.docx` — written report with answers to each assignment question
+- `Groceries_Report` — written report with answers to each assignment question
 - `README.md` — this file
 
 ## Sources
