@@ -87,7 +87,7 @@ Then open `Groceries_Association_Rules.ipynb` (keep it in the same folder as `gr
 
 - `groceries.csv` the raw transaction data
 - `Groceries_Association_Rules.ipynb` full analysis, code, and figures
-- `Groceries_Report` written report with answers to each assignment question
+- `Groceries_Report.pdf` written report with answers to each assignment question
 - `README.md` this file
 
 ## Sources
