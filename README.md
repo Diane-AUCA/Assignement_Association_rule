@@ -8,7 +8,7 @@ Built for the *Unsupervised Learning Method* course assignment on association ru
 
 ## About this project
 
-Most people's grocery baskets aren't random buying bread often comes with buying butter, and buying beef often comes with buying vegetables to cook alongside it. This project quantifies that intuition using the **Groceries dataset**: 9,835 real transactions across 169 distinct products.
+Most people's grocery baskets aren't random, buying bread often comes with buying butter, and buying beef often comes with buying vegetables to cook alongside it. This project quantifies that intuition using the **Groceries dataset**: 9,835 real transactions across 169 distinct products.
 
 The question this analysis answers isn't just *"what's popular?"* but *"what's actually connected?"* and those turn out to be different things. Whole milk is the single most popular item in the store, but that doesn't mean it's meaningfully *linked* to anything in particular; it's just bought constantly by everyone. The more interesting patterns, as you'll see below, tend to hide in less obvious places.
 
